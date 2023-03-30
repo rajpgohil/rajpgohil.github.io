@@ -1,0 +1,14 @@
+---
+layout: page
+title: Publications
+---
+
+You can also browse my <a href="https://scholar.google.com/citations?user=4upu76YAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+<br />
+
+#### Conference papers
+- **Raj Prakash Gohil**, Aditya Raikar, Gyanajyoti Routray, Rajesh M Hegde, "Learning based doa estimation in adverse acoustic environment using co-prime circular microphone array", 2020 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC) ([PDF](http://www.apsipa.org/proceedings/2020/pdfs/0000437.pdf))
+- **Raj Prakash Gohil**, Gyanajyoti Routray, Rajesh M Hegde, "Learning Based Method for Robust DOA Estimation Using Co-prime Circular Conformal Microphone Array", 2021 National Conference on Communications (NCC) ([PDF](https://ieeexplore.ieee.org/abstract/document/9530130/))
+- Priyadarshini Dwivedi, **Raj Prakash Gohil**, Gyanajyoti Routray, Vishnuvardhan Varanasiy, Rajesh M Hegde, Alan Yuille, "	
+Joint DOA estimation in spherical harmonics domain using low complexity CNN", 2022 IEEE International Conference on Signal Processing and Communications (SPCOM) ([PDF](https://ieeexplore.ieee.org/abstract/document/9840853))
+- Gyanajyoti Routray, Priyadarshini Dwivedi, **Raj Prakash Gohil**, Rajesh M Hegde, "Binaural Reproduction of HOA Signal using Temporal Convolutional Networks", 24th International Congress on Acoustics (ICA 2022) ([PDF]())
