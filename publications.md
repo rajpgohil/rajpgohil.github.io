@@ -7,7 +7,8 @@ You can also browse my <a href="https://scholar.google.com/citations?user=4upu76
 <br />
 
 #### Conference papers
-- Aditya Srinivas Menon*, **Raj Prakash Gohil**, Kumud Tripathi, Pankaj Wasnik, _LASPA: Language Agnostic Speaker Disentanglement with Prefix-Tuned
+- Kumud Tripathi, Aditya Srinivas Menon, Aman Gaurav, **Raj Prakash Gohil**, Pankaj Wasnik, _"Listen Like a Teacher: Mitigating Whisper Hallucinations using Adaptive Layer Attention and Knowledge Distillation"_, Association for the Advancement of Artificial Intelligence (AAAI 2026) ([PDF](https://arxiv.org/abs/2511.14219))
+- Aditya Srinivas Menon, **Raj Prakash Gohil**, Kumud Tripathi, Pankaj Wasnik, _"LASPA: Language Agnostic Speaker Disentanglement with Prefix-Tuned
 Cross-Attention"_, Interspeech 2025, Netherlands([PDF](https://arxiv.org/pdf/2506.02083))
 - Saurabh Agrawal, **Raj Prakash Gohil**, Gopal Kumar Agrawal, Vikram CM, Kushal Verma, _"SALF-MOS : Speaker Agnostic Latent Features Downsampled For MOS Prediction"_, International Conference on Signal Processing and Communications (SPCOM)([PDF](https://arxiv.org/pdf/2506.02082))
 - **Raj Prakash Gohil**, Ramya Viswanathan, Saurabh Agrawal, CM Vikram, Madhu R Kamble, Kamini Sabu, M Ali Basha Shaik, Krishna K S Rajesh, _"Ensemble of Incremental System Enhancements for Robust Speaker Diarization in Code-Switched Real-Life Audios"_, International Conference on Speech and Computer(SPECOM 2024) ([PDF](https://doi.org/10.1007/978-3-031-48312-7_39))
